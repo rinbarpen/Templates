@@ -1,0 +1,106 @@
+{
+  "googletest": {
+    "url": "https://github.com/google/googletest.git",
+    "versions": [
+      "v1.13.0"
+    ]
+  },
+  "fmt": {
+    "url": "https://github.com/fmtlib/fmt.git",
+    "versions": [
+      "10.1.1"
+    ]
+  },
+  "yaml-cpp": {
+    "url": "https://github.com/jbeder/yaml-cpp.git",
+    "versions": [
+      "yaml-cpp-0.7.0"
+    ]
+  },
+  "opencv": {
+    "url": "https://github.com/opencv/opencv.git",
+    "versions": [
+      "4.10.0"
+    ]
+  },
+  "jsoncpp": {
+    "url": "https://github.com/open-source-parsers/jsoncpp.git",
+    "versions": [
+      "1.9.5"
+    ]
+  },
+  "SDL": {
+    "url": "https://github.com/libsdl-org/SDL.git",
+    "versions": [
+      "release-2.28.0",
+      "release-2.30.3",
+      "release-2.0.10"
+    ]
+  },
+  "curl": {
+    "url": "https://github.com/curl/curl.git",
+    "versions": [
+      "curl-8_8_0"
+    ]
+  },
+  "tomlplusplus": {
+    "url": "https://github.com/marzer/tomlplusplus.git",
+    "versions": [
+      "v3.4.0"
+    ]
+  },
+  "xxHash": {
+    "url": "https://github.com/Cyan4973/xxHash.git",
+    "versions": [
+      "v0.8.2"
+    ]
+  },
+  "zlib": {
+    "url": "https://github.com/madler/zlib.git",
+    "versions": [
+      "v1.3.1"
+    ]
+  },
+  "glfw": {
+    "url": "https://github.com/glfw/glfw.git",
+    "versions": [
+      "3.4"
+    ]
+  },
+  "sqlite3pp": {
+    "url": "https://github.com/iwongu/sqlite3pp.git",
+    "versions": [
+      "v1.0.9"
+    ]
+  },
+  "mysql-connector-cpp": {
+    "url": "https://github.com/mysql/mysql-connector-cpp.git",
+    "versions": [
+      "8.4.0"
+    ]
+  },
+  "nanomsg": {
+    "url": "https://github.com/nanomsg/nanomsg.git",
+    "versions": [
+      "1.2.1"
+    ]
+  },
+  "lz4": {
+    "url": "https://github.com/lz4/lz4.git",
+    "versions": [
+      "1.9.4"
+    ]
+  },
+  "zstd": {
+    "url": "https://github.com/facebook/zstd.git",
+    "versions": [
+      "zstd-0.4.2"
+    ]
+  },
+  "protobuf": {
+    "url": "https://github.com/protocolbuffers/protobuf.git",
+    "versions": [
+      "v27.0"
+    ]
+  }
+}
